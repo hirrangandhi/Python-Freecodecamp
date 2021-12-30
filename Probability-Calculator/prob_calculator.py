@@ -39,6 +39,6 @@ def experiment(hat, expected_balls, num_balls_drawn, num_experiments):
       count += 1
   
   probability = count / num_experiments
-  print(count, probability)
+  #print(count, probability)
 
   return probability
